@@ -19,5 +19,13 @@ The objective of this project is to design an interactive Power BI dashboard usi
 
 Dataset Info
 
-Dataset: Netflix Movies and TV Shows (source:<a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Dataset Used</a>)
-- <a href="https://github.com/sathish-k2005/netflix-dashboard/blob/main/Netflix_Dashboard.pbix">
+- Dataset: Netflix Movies and TV Shows (source:<a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">Dataset from Kaggle</a>)
+
+
+##Dashboard Interaction
+- <a href="https://github.com/sathish-k2005/netflix-dashboard/blob/main/Netflix_Dashboard.pbix">View Dashboard</a>
+
+
+## Dashboard Preview  
+![Uploading Netflix_dashboard.png…](https://github.com/sathish-k2005/netflix-dashboard/blob/main/Netflix_dashboard.png)
+
